@@ -1,0 +1,2 @@
+D:\Работы\ОСИСП\WinAPI_labs\osisp_lab3\x64\Debug\osisp_lab3.exe
+D:\Работы\ОСИСП\WinAPI_labs\osisp_lab3\x64\Debug\osisp_lab3.pdb

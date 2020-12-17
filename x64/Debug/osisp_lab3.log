@@ -1,0 +1,5 @@
+﻿  CustomCriticalSection.cpp
+D:\Работы\ОСИСП\WinAPI_labs\osisp_lab3\CustomCriticalSection.h(16,2): warning C4091: typedef : пропускается слева от "CUSTOM_CIRTICAL_SECTION", когда ни одна переменная не объявлена
+  osisp_lab3.cpp
+  Создание кода...
+  osisp_lab3.vcxproj -> D:\Работы\ОСИСП\WinAPI_labs\osisp_lab3\x64\Debug\osisp_lab3.exe
